@@ -2,12 +2,8 @@
 
 ### Hardware
 
-+ List hardware here, or delete section.
++ Any computer capable of running [Sonic Pi](http://sonic-pi.net/){:target="_blank"} - there are versions for Windows, Mac, Raspberry Pi and Linux
 
 ### Software
 
-+ List software here, or delete section.
-
-### Additional Resources
-
-+ List additional resources, or delete section.
++ [Sonic Pi](http://sonic-pi.net/){:target="_blank"} v2.11 or later

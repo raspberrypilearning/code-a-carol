@@ -1,16 +1,17 @@
-title: code-a-carol
+title: Code a carol
 hero_image: images/banner.png
-description: code-a-carol description
+description: Code the twelve days of Christmas using Sonic Pi
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
 ingredient: false
 copyedit: false
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
-interests: "animals, jokes/pranks, space, photography, nature/outside/weather, music/sound, physical computing, games, robots, geography"
-technologies: "electronics, sense-hat, physical computing, html/css, scratch, python"
+curriculum: creator, design-0, programming-3, phys-comp-0, manufacture-0, community-0
+interests: "music/sound"
+technologies: ""
 site_areas:
 steps:
   - title: Introduction
   - title: What you will need
-  - title: Step title
+  - title: Decomposition
+  - title: Code the introduction
