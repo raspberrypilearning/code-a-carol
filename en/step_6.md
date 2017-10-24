@@ -61,7 +61,7 @@ intro
 partridge
 ```
 
-Run the code and you should hear the first verse of the song:
+Run the code and you should hear the melody for the first full verse of the song:
 
 _"On the first day of Christmas, my true love sent to me
 A partridge in a pear tree."_

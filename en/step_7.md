@@ -10,6 +10,8 @@ Now it's time to code functions for the other parts of the song! They are:
 
 You'll notice another type of note here. This note is called a **minim** and will last for 2.
 
+![Minim](images/minim.png)
+
 **Tip**: You might wish to test out your function in a different buffer to see if it sounds right before adding it to your main program.
 
 ![Item](images/item.png)
