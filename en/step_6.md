@@ -53,3 +53,23 @@ end
 Don't forget to **call** your function by typing `partridge` at the bottom of your code, or you won't hear anything!
 --- /hint ---
 --- /hints ---
+
++ Add a call to your partridge function at the end of your program, so that you have the following:
+
+```ruby
+intro
+partridge
+```
+
+Run the code and you should hear the first verse of the song:
+
+_"On the first day of Christmas, my true love sent to me
+A partridge in a pear tree."_
+
++ You may have noticed that the `partridge` melody starts a little too early. You can pause briefly between calling the two functions with `sleep` to fix this:
+
+```ruby
+intro
+sleep 0.5
+partridge
+```
