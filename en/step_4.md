@@ -44,7 +44,7 @@ Notes which are not joined are called **crotchets** and will last for 1
 
 ![Crotchet](images/crotchet.png)
 
-Notes joined together are called **quavers** and will last for 0.5
+Notes joined together with a beam are called **quavers** and will last for 0.5
 
 ![Quaver](images/quaver.png)
 
