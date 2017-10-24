@@ -2,7 +2,7 @@
 
 Your intro probably sounds a little slow and sombre at the moment. You can change how it sounds by altering the speed (known as the 'tempo') and the instrument used to play the music.
 
-Did you notice this part of the music?
+Did you notice this symbol on the intro music? This is the speed the piece is supposed to be played at.
 
 ![120 BPM](images/120bpm.png)
 
