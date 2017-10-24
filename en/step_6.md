@@ -2,6 +2,15 @@
 
 Now that you know how to create a function to play a piece of music, have a go at coding the melody for the line _"a partridge in a pear tree"_.
 
+<div id="audio-preview" class="pdf-hidden">
+
+<audio controls preload>
+  <source src="resources/partridge.mp3" type="audio/mpeg">
+Your browser does not support the <code>audio</code> element.
+</audio>
+
+</div>
+
 Put your code inside a function called `:partridge`.
 
 ![Partridge](images/partridge.png)
@@ -24,7 +33,11 @@ notes = []
 durations = []
 ```
 
-Then add ` play_pattern_timed notes, durations`.
+Then play the melody:
+
+```ruby
+play_pattern_timed notes, durations
+```
 --- /hint ---
 --- hint ---
 Here is the code you will need:
@@ -36,5 +49,7 @@ define :partridge do
   play_pattern_timed notes, durations
 end
 ```
+
+Don't forget to **call** your function by typing `partridge` at the bottom of your code, or you won't hear anything!
 --- /hint ---
 --- /hints ---
