@@ -18,3 +18,7 @@ Here is the music, but don't worry if you can't read music as we have labelled e
 Let's create a function to play this music in Sonic Pi.
 
 + Open up Sonic Pi
+
++ Create a function called `:intro`
+
+[[[generic-sonicpi-function]]]
