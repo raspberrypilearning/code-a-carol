@@ -8,7 +8,7 @@ Now it's time to code functions for the other parts of the song! They are:
 
 + Create three more functions in exactly the same way, one for each of these parts.
 
-You'll notice another type of note here. This note is called a **minim** and will last for 2.
+You'll notice another type of note here. This note is called a **minim** and will last for 2 beats.
 
 ![Minim](images/minim.png)
 

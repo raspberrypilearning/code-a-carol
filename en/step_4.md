@@ -40,11 +40,11 @@ You might have noticed that one of the notes is called B♭4 (B flat). You can w
 
 + Next, add the durations of each note to the `durations` list.
 
-Notes which are not joined are called **crotchets** and will last for 1
+Notes which are not joined are called **crotchets** and will last for 1 beat.
 
 ![Crotchet](images/crotchet.png)
 
-Notes joined together with a beam are called **quavers** and will last for 0.5
+Notes with a tail or joined together with a beam are called **quavers** and will last for half a beat (0.5).
 
 ![Quaver](images/quaver.png)
 
