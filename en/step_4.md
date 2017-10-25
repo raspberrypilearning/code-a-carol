@@ -48,6 +48,8 @@ Notes with a tail or joined together with a beam are called **quavers** and will
 
 ![Quaver](images/quaver.png)
 
+It does not matter which way up the notes are.
+
 So the first two durations would be:
 
 ```ruby
