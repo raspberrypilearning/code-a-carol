@@ -58,7 +58,17 @@ durations = [0.5, 0.5]
 
 --- hints ---
 --- hint ---
-Here is the code you will need:
+Here is the first part of the code - can you continue from here?
+
+```ruby
+define :intro do
+    notes = [:c4, :c4, :c4, :f4, :f4, :f4]
+    durations = [0.5, 0.5, 1, 0.5, 0.5, 1]
+end
+```
+--- /hint ---
+--- hint ---
+Here is the full code you will need:
 
 ```ruby
 define :intro do
@@ -69,10 +79,12 @@ end
 --- /hint ---
 --- /hints ---
 
-+ As the last line of code inside your function, add an instruction to play the pattern of notes you have created
++ Add an instruction on the last line inside your function to play the pattern of notes you have created
 
 ```ruby
 play_pattern_timed notes, durations
 ```
 
-+ Run your program - nothing will happen! To hear your melody, you will need to **call** the function by typing `intro` right at the bottom of your program.
++ Run your program - nothing will happen! To hear your melody, you will need to **call** the function by typing `intro` right at the bottom of your program, leaving out the `:`.
+
+![Call the function](images/call-function.png)
