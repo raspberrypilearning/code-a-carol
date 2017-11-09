@@ -15,7 +15,7 @@ Put your code inside a function called `:partridge`.
 
 ![Partridge](images/partridge.png)
 
-In case you are wondering, these symbols are all **rests** of different durations and just mean no notes are being played. You can ignore them.
+In case you are wondering, these symbols are all **rests** of different durations and just mean no notes are being played. You can ignore them when you are coding the melody.
 
 ![Rests](images/rests.png)
 

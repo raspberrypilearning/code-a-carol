@@ -90,3 +90,23 @@ days = days + 1
 ```
 
 + Run your code and check that you hear the right song.
+
+You might notice that the song gets a little out of sync - there is supposed to be a brief pause between verses. You can rectify this by adding in a sleep command to create a brief pause at the end of your functions.
+
++ Add this code at the end of your `intro` function to pause for half a beat:
+
+```ruby
+sleep 0.5
+```
+
++ Play the song again and listen for the brief pause between the end of the introduction melody and the partridge melody.
+
++ Add a pause to the end of the `partridge` and `five_gold_rings` functions. Experiment with different pause lengths (0.5, 1, 2 etc.) until you find the one that sounds right.
+
+You may also have noticed that we didn't yet add the note to represent "and" which comes in from verse two onwards when we need to say "_**and**_ a partridge in a pear tree".
+
++ Add some code to play a single note for half a beat (0.5) if we are on any number of days that is greater than 1:
+
+![And note](images/and-note.png)
+
++ Run your code again and check that the song plays correctly
