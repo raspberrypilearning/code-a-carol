@@ -15,6 +15,10 @@ Put your code inside a function called `:partridge`.
 
 ![Partridge](images/partridge.png)
 
+In case you are wondering, these symbols are all **rests** of different durations and just mean no notes are being played. You can ignore them.
+
+![Rests](images/rests.png)
+
 --- hints ---
 --- hint ---
 Start by creating a function called `partridge`
