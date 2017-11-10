@@ -1,10 +1,10 @@
 ## Decomposition
 
-In programming terms, decomposition is breaking down a large problem into parts and solving each part in order to solve the whole problem.
+In programming terms, decomposition is breaking down a problem into smaller parts and solving each part in order to solve the whole problem.
 
-Let's look at the first part of the popular Christmas song, the "Twelve days of Christmas":
+Let's look at the first part of the popular Christmas song _Twelve days of Christmas_:
 
-_On the first day of Christmas, my true love sent to me
+`On the first day of Christmas, my true love sent to me
 A partridge in a pear tree.
 
 On the second day of Christmas, my true love sent to me
@@ -16,7 +16,7 @@ Three French hens,
 Two turtledoves
 And a partridge in a pear tree.
 
-etc..._
+etc...`
 
 You have probably noticed that there is a lot of repetition in the song. The following chunks of music are repeated:
 
