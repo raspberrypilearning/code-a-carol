@@ -2,7 +2,7 @@
 
 ### Hardware
 
-+ Any computer capable of running [Sonic Pi](http://sonic-pi.net/){:target="_blank"} - there are versions for Windows, Mac, Raspberry Pi and Linux
++ Any computer capable of running [Sonic Pi](http://sonic-pi.net/){:target="_blank"} — there are versions for Windows, macOS, Raspberry Pi, and Linux
 
 ### Software
 
