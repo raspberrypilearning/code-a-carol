@@ -1,6 +1,6 @@
 title: Code a carol
 hero_image: images/banner.png
-description: Code the twelve days of Christmas using Sonic Pi
+description: Code the song 'Twelve Days of Christmas' using Sonic Pi
 theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: false
@@ -19,5 +19,5 @@ steps:
   - title: Code the partridge
   - title: Code the other parts
   - title: "Challenge: code the song"
-  - title: Step by step song
+  - title: The song step by step
   - title: "Challenge: your own song"
