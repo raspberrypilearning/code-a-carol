@@ -1,10 +1,10 @@
 ## Introduction
 
-Code the "Twelve days of Christmas" carol using Sonic Pi.
+Code the carol _Twelve days of Christmas_ using Sonic Pi.
 
 ### What you will make
 
-Listen to the finished tune here by pressing the play button:
+Listen to the finished tune here by clicking the **play** button:
 
 <div id="audio-preview" class="pdf-hidden">
 
