@@ -1,6 +1,6 @@
 ## Introduction
 
-Code the carol _Twelve days of Christmas_ using Sonic Pi.
+Code the carol _Twelve Days of Christmas_ using Sonic Pi.
 
 ### What you will make
 
