@@ -20,6 +20,6 @@ Now let's change the instrument. Sonic Pi has lots of instruments called **synth
 
 ![Synths list](images/synths-list.png)
 
-Choose one you think sounds interesting, and then run your music. If you don't like it, delete the synth and choose a different one until you find something you like.
++ Choose one you think sounds interesting, and then run your music. If you don't like it, delete the synth and choose a different one until you find something you like.
 
 We used the `:pulse` synth for the example music at the start of this project.
