@@ -11,17 +11,17 @@ Your browser does not support the <code>audio</code> element.
 
 </div>
 
-Put your code inside a function called `:partridge`.
++ Put your code inside a function called `:partridge`.
 
 ![Partridge](images/partridge.png)
 
-In case you are wondering, these symbols are all **rests** of different durations and just mean no notes are being played. You can ignore them when you are coding the melody.
+In case you are wondering, these symbols are all **rests** of different durations and just mean that no notes should be played. You can ignore them when you are coding the melody.
 
 ![Rests](images/rests.png)
 
 --- hints ---
 --- hint ---
-Start by creating a function called `partridge`
+Start by creating a function called `:partridge`.
 
 ```ruby
 define :partridge do
@@ -54,18 +54,17 @@ define :partridge do
 end
 ```
 
-Don't forget to **call** your function by typing `partridge` at the bottom of your code, or you won't hear anything!
 --- /hint ---
 --- /hints ---
 
-+ Add a call to your partridge function at the end of your program, so that you have the following:
++ **Call** your partridge function at the bottom of your program, so that you have the following:
 
 ```ruby
 intro
 partridge
 ```
 
-Run the code and you should hear the melody for the first full verse of the song:
++ Run the code, and you should hear the melody for the first full verse of the song:
 
 _"On the first day of Christmas, my true love sent to me
 A partridge in a pear tree."_
