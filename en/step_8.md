@@ -18,6 +18,6 @@ Can you use the flow chart to write the song?
 - **Green** boxes represent loops (e.g. `12.times do`)
 - **Purple** boxes represent decisions (e.g. `if days >= 5`)
 
-The **and a** box is where you need to add a single note to represent the _"and"_ in _"**and** a partridge in a pear tree"_. This is because the first partridge doesn't have an _"and"_!
+The **and a** box is where you need to add a single note to represent the _"and"_ in _"and a partridge in a pear tree"_. This is because the first partridge line doesn't have an _"and"_!
 
 --- /challenge ---
