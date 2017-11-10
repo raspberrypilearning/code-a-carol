@@ -22,8 +22,8 @@ etc...
 
 You have probably noticed that there is a lot of repetition in the song. The following chunks of music are repeated:
 
-- **Introduction** - _On the first day of Christmas, my true love sent to me_
-- **Verse** - The tune is the same for _Two turtledoves_ and _Three French hens_
-- **Partridge** - _(And) a partridge in a pear tree_
+- **Introduction** — _On the first day of Christmas, my true love sent to me_
+- **Verse** — The tune is the same for _Two turtledoves_ and _Three French hens_
+- **Partridge** — _(And) a partridge in a pear tree_
 
 Each of these smaller chunks of the song can be written as a **function** and then that function can be called whenever we need that melody to play. We will begin by writing some code to play the introduction.
