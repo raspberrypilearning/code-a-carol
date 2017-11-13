@@ -15,9 +15,11 @@ Your browser does not support the <code>audio</code> element.
 
 ![Partridge](images/partridge.png)
 
-In case you are wondering, these symbols are all **rests** of different durations and just mean that no notes should be played. You can ignore them when you are coding the melody.
+In case you are wondering, these symbols are all **rests** of different durations and just mean that no notes should be played"
 
 ![Rests](images/rests.png)
+
+You can ignore them when you are coding the melody.
 
 --- hints ---
 --- hint ---
@@ -69,7 +71,7 @@ partridge
 _"On the first day of Christmas, my true love sent to me
 A partridge in a pear tree."_
 
-+ You may have noticed that the `partridge` melody starts a little too early. You can pause briefly between calling the two functions with `sleep` to fix this:
++ You may have noticed that the `partridge` melody starts a little too early. To fix this, you can pause briefly with `sleep` between calling the two functions:
 
 ```ruby
 intro
