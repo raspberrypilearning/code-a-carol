@@ -6,7 +6,7 @@ Did you notice this symbol on the intro music? This is the speed at which the pi
 
 ![120 BPM](images/120bpm.png)
 
-+ At the start of your program, add this code to tell the music to play at 120BPM (beats per minute):
++ At the start of your program, add this code to tell the music to play at 120 BPM (beats per minute):
 
 ```ruby
 use_bpm 120
@@ -20,6 +20,6 @@ Now let's change the instrument. Sonic Pi has lots of instruments called **synth
 
 ![Synths list](images/synths-list.png)
 
-+ Choose one you think sounds interesting, and then run your music. If you don't like it, delete the synth and choose a different one until you find something you like.
++ Choose one you think sounds interesting, and then run your music. If you don't like it, delete the synth and choose a different one until you find one you like.
 
 We used the `:pulse` synth for the example music at the start of this project.
