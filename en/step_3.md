@@ -1,8 +1,8 @@
 ## Decomposition
 
-In programming, decomposition is breaking down a problem into smaller parts and solving each part in order to solve the whole problem.
+In programming, decomposition means breaking down a problem into smaller parts and solving each part in order to solve the whole problem.
 
-Let's look at the first part of the popular Christmas carol _Twelve Days of Christmas_:
+Let's look at the beginning of the popular Christmas carol _Twelve Days of Christmas_:
 
 ```
 On the first day of Christmas, my true love sent to me
@@ -14,7 +14,7 @@ And a partridge in a pear tree.
 
 On the third day of Christmas, my true love sent to me
 Three French hens,
-Two turtledoves
+Two turtledoves,
 And a partridge in a pear tree.
 
 etc...
