@@ -30,7 +30,7 @@ Here is the melody you will need, and don't worry if you can't read music, as we
 
 ![Introduction](images/introduction.png)
 
-+ Look at the music notes above. Add each of the note names to the `notes` list, separated by a comma. The first two notes are C4 so in Sonic Pi we would write this as `:c4`.
++ Look at the music notes above. Add each of the note names to the `notes` list, separated by a comma. The first two notes are C4, and in Sonic Pi we would write this as `:c4`.
 
 ```ruby
 notes = [:c4, :c4]
@@ -85,6 +85,6 @@ end
 play_pattern_timed notes, durations
 ```
 
-+ Run your program — nothing will happen! To hear your melody, you will need to **call** the function by typing `intro` right at the bottom of your program, leaving out the `:`.
++ Run your program. Nothing will happen! To hear your melody, you will need to **call** the function by typing `intro` right at the bottom of your program, leaving out the `:`.
 
 ![Call the function](images/call-function.png)
