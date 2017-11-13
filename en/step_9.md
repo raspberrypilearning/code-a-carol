@@ -83,15 +83,16 @@ elsif days > 1
     end
 ```
 
-+ Finally, locate your cursor after the `partridge` function — this is the end of the verse. Add `1` to the `days` variable so that we hear the verse for every day.
++ Finally, find the part of your code where you call the `partridge` function — this is the end of the verse. Right below it, create a new line where you add `1` to the `days` variable.
 
 ```ruby
 days = days + 1
 ```
+This way, `days` increases every time the loop runs, so that that the verse for every day is played correctly.
 
 + Run your code and check that you hear the right song.
 
-You might notice that the song gets a little out of sync. This is because there is supposed to be a brief pause between verses. You can rectify this by adding in a `sleep` command to create a brief pause at the end of your functions.
+You might notice that the song gets a little out of sync. This is because there is supposed to be a brief pause between verses. You can rectify this by adding in a `sleep` command at the end of your functions to create a brief pause.
 
 + Add this code at the end of your `intro` function to pause for half a beat:
 
@@ -99,7 +100,7 @@ You might notice that the song gets a little out of sync. This is because there 
 sleep 0.5
 ```
 
-+ Play the song again and listen for the brief pause between the end of the introduction melody and the partridge melody.
++ Play the song again and listen for the brief pause between the end of the introduction melody and the beginning of the partridge melody.
 
 + Add a pause to the end of the `partridge` and `five_gold_rings` functions. Experiment with different pause lengths (`0.5, 1, 2`, etc.) until you find the one that sounds right.
 
@@ -109,4 +110,4 @@ You may also have noticed that we didn't yet add the note to represent _"and"_ w
 
 ![And note](images/and-note.png)
 
-+ Run your code again and check that the song plays correctly
++ Run your code again and check that the song plays correctly.
