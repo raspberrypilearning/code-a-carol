@@ -1,5 +1,7 @@
 ## The song step by step
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YzJjSXXo1mw?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 + At the bottom of your code, below your functions, remove any calls to the functions that may be left over from when you tested them.
 
 + Create a variable called `days` and set its value to `1`.
