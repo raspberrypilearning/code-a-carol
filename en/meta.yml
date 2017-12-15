@@ -1,7 +1,7 @@
 title: Code a carol
 hero_image: images/banner.png
 description: Code the song 'Twelve Days of Christmas' using Sonic Pi
-theme: red # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: navy # possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 2 # possible values: 1, 2 or 3
 listed: true
 ingredient: false
