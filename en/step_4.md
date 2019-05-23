@@ -27,6 +27,7 @@ durations = []
 ```
 
 Here is the melody you will need, and don't worry if you can't read music, as we have labelled each note. C4 means the note C in octave 4, which is how Sonic Pi refers to notes.
+If you can read music, then you might be wondering where the time signature is.  We've left it out to keep things simple.
 
 ![Introduction](images/introduction.png)
 
