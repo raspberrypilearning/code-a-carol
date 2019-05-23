@@ -9,3 +9,16 @@ env/
 
 ### MacOS ###
 .DS_STORE
+
+### Intermediate files from building of score fragments
+tools/Twelve-days-fragments.pdf
+tools/doc_data.txt
+tools/p?.pdf
+tools/burst.witness
+tools/tmp-p?.png
+tools/cropped-p?.png
+tools/five-gold-rings.png
+tools/four-three-two.png
+tools/introduction.png
+tools/item.png
+tools/partridge.png
