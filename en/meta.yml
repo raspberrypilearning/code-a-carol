@@ -18,13 +18,15 @@ last_tested: 2017-12-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Decomposition
 - title: Code the introduction
+  completion:
+  - engaged
 - title: Speed and synths
 - title: Code the partridge
 - title: Code the other parts
 - title: 'Challenge: code the song'
 - title: The song step by step
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: your own song'
