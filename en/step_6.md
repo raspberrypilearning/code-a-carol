@@ -15,12 +15,6 @@ Your browser does not support the <code>audio</code> element.
 
 ![Partridge](images/partridge.png)
 
-In case you are wondering, these symbols are all **rests** of different durations and just mean that no notes should be played"
-
-![Rests](images/rests.png)
-
-You can ignore them when you are coding the melody.
-
 --- hints ---
 --- hint ---
 Start by creating a function called `:partridge`.
